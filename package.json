@@ -1,0 +1,19 @@
+{
+  "name": "@ajoq/platforms",
+  "version": "1.0.0",
+  "description": "https://github.com/netology-code/ajs-homeworks/tree/ajs8/platforms",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoq/ajs-homeworks-platforms.git"
+  },
+  "author": "Konstantin Beloglazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoq/ajs-homeworks-platforms/issues"
+  },
+  "homepage": "https://github.com/ajoq/ajs-homeworks-platforms#readme"
+}
